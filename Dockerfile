@@ -16,5 +16,3 @@ CMD ["/run.sh"]
 
 ENV AUTHORIZED_KEYS **None**
 EXPOSE 22
-
-
